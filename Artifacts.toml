@@ -1,6 +1,6 @@
 [libosmium]
-git-tree-sha1 = "408e6e01103bc59501e2ed8204e6e2dcd290a830"
+git-tree-sha1 = "d3f005375c1558be882c1c4c2c42f6b72953a723"
 
     [[libosmium.download]]
-    sha256 = "f6a79114b17996d71f0dc74f9d7ad652f59a3f6829a9901b131b5b7ba1886092"
-    url = "https://github.com/JuliaBinaryWrappers/libosmium_jll.jl/releases/download/libosmium-v2.18.0+0/libosmium.v2.18.0.any.tar.gz"
+    sha256 = "6a90d9ea6f93a2fb7a3de404974f5b5ecc2b4ceed77d3bf37d75cbfed798bcd5"
+    url = "https://github.com/JuliaBinaryWrappers/libosmium_jll.jl/releases/download/libosmium-v2.19.0+0/libosmium.v2.19.0.any.tar.gz"

@@ -1,13 +1,19 @@
 name = "libosmium_jll"
 uuid = "7f0a2ee1-9b43-5740-ae82-b54233cf7071"
-version = "2.18.0+0"
+version = "2.19.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Expat_jll = "2e619515-83b5-522b-bb60-26c02a35a201"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Bzip2_jll = "1.0.8"
+Expat_jll = "2.2.10"
+boost_jll = "=1.76.0"
