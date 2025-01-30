@@ -1,6 +1,6 @@
 name = "libosmium_jll"
 uuid = "7f0a2ee1-9b43-5740-ae82-b54233cf7071"
-version = "2.21.0+0"
+version = "2.21.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -17,4 +17,4 @@ Bzip2_jll = "1.0.8"
 Libdl = "< 0.0.1, 1"
 Expat_jll = "2.2.10"
 Artifacts = "< 0.0.1, 1"
-boost_jll = "=1.76.0"
+boost_jll = "=1.87.0"

@@ -3,4 +3,4 @@ git-tree-sha1 = "ff6319fe5862cefc9e1b912999bc92d419677a8b"
 
     [[libosmium.download]]
     sha256 = "9c5b488b6cce1a745f37c43ff71fb2c49474165a0ef7579da5be2a1748bca2dc"
-    url = "https://github.com/JuliaBinaryWrappers/libosmium_jll.jl/releases/download/libosmium-v2.21.0+0/libosmium.v2.21.0.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libosmium_jll.jl/releases/download/libosmium-v2.21.1+0/libosmium.v2.21.1.any.tar.gz"
